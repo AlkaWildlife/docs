@@ -44,6 +44,10 @@ Netlify CMS momentálně dokáže z multimediálního obsahu spravovat pouze obr
 
 Pro hypertextové odkazy se poté použije adresa začínající `/media/` a následovaná názvem nahraného souboru. Pokud tedy nahraju soubor „Skvělé PDF.pdf“, jeho adresa bude `/media/Skvělé PDF.pdf`.
 
+## Nový řádek, nikoli nový odstavec
+
+Při stisku klávesy `Enter`, která jinak začne nový odstavec, lze ještě podržet modifikující klávesu `Shift`. `Shift+Enter` tedy začne nový řádek v rámci stávajícího odstavce, nikoli celý odstavec.
+
 [netlify]: https://www.netlify.com
 [netlify-cms]: https://www.netlifycms.org
 [github]: https://github.com
