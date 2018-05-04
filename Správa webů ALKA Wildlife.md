@@ -36,7 +36,7 @@ Bohužel Netlify CMS neumožňuje toto chování měnit přes své nástroje a j
 
 Ihned za obrázek (bez odřádkování a bez mezer) je potřeba vložit text `{: .wysiwyg-float-left}` pro obtékání textu zprava (obrázek plave textem vlevo) nebo `{: .wysiwyg-float-right}` pro obtékání textu zleva (obrázek plave textem vpravo).
 
-Někdy je zároveň vhodné obtékání ukončit dříve a nenechat veškerý následující text obrázek obtékat. K tomu složí tzv. clearfix. Ten je možné vložit z doplňkové nabídky v panelu nástrojů textového editoru nebo ručně speciální textem `<div class="clearfix"></div>`.
+Někdy je zároveň vhodné obtékání ukončit dříve a nenechat veškerý následující text obrázek obtékat. K tomu složí tzv. clearfix. Ten je možné vložit z doplňkové nabídky v panelu nástrojů textového editoru.
 
 ## Nahrání a odkazování na PDF a jiné neobrázkové typy souborů
 
