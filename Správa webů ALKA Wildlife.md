@@ -26,7 +26,7 @@ V horním liště je možné přepínat v levé části otevřít správu obráz
 
 Při správě stránek v Content pages a Special pages je možné si všimnout přepínače „Show in the navigation menu“. Tento přepínač určuje, zda se stránka objeví v navigační nabídce spravovaného webu. Hierarchie stránek je daná strukturou jejich adresy, kde je jako oddělovač úrovní použit znak lomeno, tj. `/`. Například stránka „O nás“ může mít adresu `/o-nas` a její podstránka „Projekty“ by poté měla adresu `/o-nas/projekty`. Special pages mají adresy neměnné nicméně v jejich případě nemá smysl, aby měly podstránky.
 
-Pořádí položek v navigační nabídce je dané hodnotou v poli „Position among siblings in the navigation menu“, která by měla být hned za přepínačem.
+Pořádí položek v navigační nabídce je dané hodnotou v poli „Position among siblings in listings“, která by měla být hned za přepínačem. Tato volba zároveň určuje pořadí na jiných výpisech – např. v pravém bočním panelu na stránkách s dvou sloupcovým rozvržením.
 
 ## Obtékání obrázku textem
 
