@@ -1,3 +1,6 @@
+---
+title: Správa webů ALKA Wildlife
+---
 # Typy správcovských účtů
 
 Weby jsou hostovány na platformě [Netlify][netlify] a obsah je spravován systémem [Netlify CMS][netlify-cms] a [GitHub][github]. I přes podobné jméno mají oba systémy rozdílné účty.
