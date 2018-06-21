@@ -51,6 +51,14 @@ Pro hypertextové odkazy se poté použije adresa začínající `/media/` a n�
 
 Při stisku klávesy `Enter`, která jinak začne nový odstavec, lze ještě podržet modifikující klávesu `Shift`. `Shift+Enter` tedy začne nový řádek v rámci stávajícího odstavce, nikoli celý odstavec.
 
+## Správa obsahu ve vztahu k přidruženým typům obsahu
+
+Některé typy obsahu, jako například publikace na prezentačním webu ALKA Wildlife, jsou ve vztahu k jiným typům obsahu (např. typ, kategorie nebo stránky ve vztahu ke galeriím), které jsou spravovány odděleně. Poté často mohou nastat dva scénáře: je potřeba typ nebo kategorii přejmenovat, nebo přidat nový.
+
+Pokud se *přidává nový přidružený typ obsahu*, je potřeba jej nejdříve vytvořit – tedy obsah, na který se hodláme odkazovat – a až poté vytvářet obsah, ze kterého se odkazujeme. Například nejdříve vytvořím nový typ publikace a až vytvářím samotnou publikace, která do toho typu patří.
+
+V situace kdy se přidruženému typu mění název, je bohužel potřeba změnit tento název i ve všude, kde se na něj odkazujeme. Například pokud změním název kategorie, musím najít všechen obsah v této kategorii (články v poradně a projekty) a tam také změnit název.
+
 [netlify]: https://www.netlify.com
 [netlify-cms]: https://www.netlifycms.org
 [github]: https://github.com
